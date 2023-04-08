@@ -1,13 +1,13 @@
 {
-  "name": "Lêɠêɳ̃dẞο†",
-  "description": "LegendBot is one of the best userbot on telegram based on telethon & python",
-  "logo": "https://telegra.ph/file/ac9bd7bcdac984dd407b2.jpg",
+  "name": "PAINSBOT",
+  "description": "PAIN is one of the best userbot on telegram based on telethon & python",
+  "logo": "https://graph.org/file/ad58e704461592120a976.jpg",
   "keywords": [
     "plugin",
     "legendbot",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-AI/LEGENDBOT",
+  "repository": "https://github.com/famegfx/LEGENDBOT",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -21,19 +21,19 @@
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "9785699"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "79b113ed5fd1b760eee6fb5e9110c0f7"
     },
     "LEGEND_STRING": {
       "description": "Get this value by running https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py",
-      "value": ""
+      "value": "1BVtsOJ8Bu6L0lFwpMIibQaWVDL_G809LcFEBx5k1X363OXPMEvraupzHuJSg5a5W89je4qZ8G45ubxxV148133AiXt-DFxyyJqRA0-VcPQ0FG-i_NXKoQc8Uawe2f7NT0KcaH4YQMncOCuqn4kJzl-JquxhWA1hBUWSSKLDQBdOIQaf0XR1NhEnDbbh6Ug6r2XVT9JJ3Bn_0As0BkEzHucgVh5fL9pa5RJaYQIvJ3opU2jPY_O2e3oxf-et8ibsk-nBKG8aReI78-JhikBKTc8InCWCRkwuDEKYi_w0bWfRi8qTXl9Z6nQwjDnZyykUooRONcyFnrlkzMwVIv_-sTvKQpI7jlMw="
     },
     "BOT_TOKEN": {
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.",
-      "value": ""
+      "value": "5647673933:AAEyrnHJJSg37rIJnXo1erFAcs0ui-s7GCw"
     },
     "HANDLER": {
       "description": "Set this one with only one the symbol to use it before your command to run like . , ' `",
